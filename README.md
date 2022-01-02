@@ -1,7 +1,7 @@
 <img src='my_pokedex_img.PNG' alt='My Pokedex' title='My Pokedex'>
 
 ## Sobre
-Essa é a simulação de uma pokedex feita em VueJs e consumindo a API PokeApi via Javascript.
+Simulação de uma pokedex feita em VueJs e consumindo a API PokeApi via Javascript.
 Nela, eu mostro todos os Pokémon da primeira até a oitava geração.
 <br/>
 
