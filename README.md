@@ -1,8 +1,8 @@
 <img src='my_pokedex_img.PNG' alt='My Pokedex' title='My Pokedex'>
 
-## Sobre
-Simulação de uma pokedex feita em VueJs e consumindo a API PokeApi via Javascript.
-Nela, eu mostro todos os Pokémon da primeira até a oitava geração.
+## About
+Simulation of a pokedex made in VueJs and consuming the PokeApi API via Fetch API.
+In this project, I show all Pokémon from the first to the eighth generation.
 <br/>
 
 <div style="display: inline_block"><br>
@@ -14,14 +14,14 @@ Nela, eu mostro todos os Pokémon da primeira até a oitava geração.
 </div>
 <br/>
 
-## Status do projeto
+## Project status
 <h4> 
-    ✅ My Pokedex Finalizada ✅
+    ✅ Finished ✅
 </h4>
 <br/>
 
-## Demonstração
-<b>Clique <a href="https://mypokedex-vue.herokuapp.com/">aqui</a> para acessar o site</b>
+## The project
+<b>Click <a href="https://mypokedex-vue.herokuapp.com/">here</a> to open the website</b>
 <br/><br/>
 <img src='pokedex-gif.gif' alt='My Pokedex' title='My Pokedex'>
 <br/><br/>
@@ -46,6 +46,6 @@ npm run build
 npm run lint
 ```
 <br/>
-Baixe o <a href="https://git-scm.com/">GIT</a>, <a href="https://nodejs.org/en/">NodeJS</a> e <a href="https://cli.vuejs.org/">Vue CLI</a> na sua máquina.
+Install <a href="https://git-scm.com/">GIT</a>, <a href="https://nodejs.org/en/">NodeJS</a> and <a href="https://cli.vuejs.org/">Vue CLI</a> on your computer.
 <br/><br/>
-<b>Autor:</b> <a href="https://beacons.ai/danvinicius">Daniel Vinícius</a>
+<b>Author:</b> <a href="https://beacons.ai/danvinicius">Daniel Vinícius</a>
